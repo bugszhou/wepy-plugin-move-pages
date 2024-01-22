@@ -1,6 +1,6 @@
 {
   "name": "wepy-plugin-move-pages",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "wepy move pages",
   "main": "lib/index.js",
   "directories": {
